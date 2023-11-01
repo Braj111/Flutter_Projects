@@ -1,2 +1,2 @@
 # Flutter_Projects
-This Repository contains 11 different Flutter Projects utilizing its various functionalities, which I discovered in my learning journey. 
+This repository comprises 11 distinct Flutter projects, each showcasing diverse functionalities that I've explored and learned throughout my educational journey
